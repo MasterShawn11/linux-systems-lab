@@ -53,6 +53,7 @@ tmux
 Git
 
 **Project Timeline**
+
 Day 1 – Service Execution and Process Behavior
 
 Created and executed Python scripts from terminal
@@ -89,7 +90,7 @@ Investigated environment variable scope problems
 
 Implemented fixes and validated stability
 
-Security Principles Practiced
+**Security Principles Practiced**
 
 Least privilege
 
